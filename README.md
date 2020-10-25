@@ -2,7 +2,7 @@
 
 ### I'm a computer science apprentice!
 
-- 🔭 I’m currently working on a simpsons character recognition!
+- 🔭 I’m currently working on a image classifier!
 - 🌱 I'm very passionate about learning new data science stuff
 - 👯 I’m looking to collaborate with data scientists
 - ⚡ Fun fact: I like to play chess
@@ -18,7 +18,7 @@
 
 Here are some of my projects I have planned to do or already did:
 #### CV
-* Simpsons facial recognition
+* Simpsons facial recognition ([Service](https://github.com/wauchi/simpson-facial-recognition-service))
 * Cocktail recognition
 * Rainforestclearing detection
 * Flood detection
